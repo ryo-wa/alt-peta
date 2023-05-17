@@ -1,5 +1,5 @@
 import 'aframe'
-import { Scene, Camera, Box } from 'aframe-react-component';
+import { Scene } from 'aframe-react-component';
 import {Entity} from 'aframe-react';
 
 export default function PetaScene(props) {
