@@ -2437,6 +2437,13 @@ adjust-sourcemap-loader@^4.0.0:
     loader-utils "^2.0.0"
     regex-parser "^2.2.11"
 
+aframe-react-component@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/aframe-react-component/-/aframe-react-component-0.1.1.tgz#7a44c69f53c98c633ee0646c982c6db2dd44b837"
+  integrity sha512-EgDDruUil6OQsa0DaPIZ7Ybqs09pxbmmV/cgF+ikdUdTlzCdGbMCi27UE7JV1JbHP69iTALV1yEgwA4NdXnAKA==
+  dependencies:
+    lodash "^4.17.21"
+
 aframe-react@^4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/aframe-react/-/aframe-react-4.4.0.tgz#f8af660bc4f64746d7cddb065ad9cc5e88f358b9"
@@ -3622,7 +3629,7 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
-"debug@github:ngokevin/debug#noTimestamp":
+debug@ngokevin/debug#noTimestamp:
   version "2.2.0"
   resolved "https://codeload.github.com/ngokevin/debug/tar.gz/ef5f8e66d49ce8bc64c6f282c15f8b7164409e3a"
 
@@ -8851,7 +8858,7 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-"three-bmfont-text@github:dmarcos/three-bmfont-text#21d017046216e318362c48abd1a48bddfb6e0733":
+three-bmfont-text@dmarcos/three-bmfont-text#21d017046216e318362c48abd1a48bddfb6e0733:
   version "2.4.0"
   resolved "https://codeload.github.com/dmarcos/three-bmfont-text/tar.gz/21d017046216e318362c48abd1a48bddfb6e0733"
   dependencies:
