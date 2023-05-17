@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "local-debug": "HTTPS=true SSL_CRT_FILE=/Users/careerblocks/workspace/alt/alt/localhost+3.pem SSL_KEY_FILE=//Users/careerblocks/workspace/alt/alt/localhost+3-key.pem yarn start"
+    "local-debug": "HTTPS=true SSL_CRT_FILE=/Users/careerblocks/workspace/alt/alt/server.crt SSL_KEY_FILE=/Users/careerblocks/workspace/alt/alt/server.key yarn start"
 
   },
   "eslintConfig": {
